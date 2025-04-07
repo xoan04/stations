@@ -59,6 +59,12 @@
             "url": "https://play.sas-media.ru/play_256",
             "title": "Noise FM",
             "name": "Noise FM"
+        },
+        
+        {
+            "url": "https://radio.garden/listen/olimpica-stereo-fm-92-1/uuMCMLQZ",
+            "title": "Olimpica Stereo BQ",
+            "name": "Olimpica Stereo BQ"
         }
     ]
 }
